@@ -1,32 +1,6 @@
 
 
-window.addEventListener("scroll", function (event) {
-    var scroll = this.scrollY;
-   console.log(scroll)
-    if(scroll > 300){
 
-		var x= document.querySelector('.xxx');
-		x.style.display='block'
-			x.classList.add('animate')
-
-		
-
-		var y= document.querySelector('.slide');
-			
-			y.style.display='flex'
-		
-    }
-       
-
-		
-
-
-    
-   
-     
-   
-    
-})
 
 
 
